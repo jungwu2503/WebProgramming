@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://kjwsite.netlify.app/sitemap.xml
